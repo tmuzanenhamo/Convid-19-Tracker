@@ -1,1 +1,1 @@
-# Convid-19-Tracker
+# Convid-19-Tracker App
