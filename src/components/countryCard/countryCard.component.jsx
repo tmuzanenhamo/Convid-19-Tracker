@@ -13,6 +13,7 @@ const CountryCard = ({country,
                       critical,
                       deaths,
                       todayDeaths,
+                      perMillion,
                       imageSrc}) => {
     return ( 
         <div className="card-container">
@@ -34,6 +35,9 @@ const CountryCard = ({country,
           </Card.Text>
           <Card.Text>
            Critical condition: {critical}
+          </Card.Text>
+          <Card.Text>
+            Cases Per Million: {perMillion}
           </Card.Text>
           <Card.Text style={{color: "red"}}>
            Today's Deaths: {todayDeaths}

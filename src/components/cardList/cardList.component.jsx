@@ -55,6 +55,7 @@ const CardList = ({countryData}) => {
                     todayDeaths={countries.todayDeaths}
                     recoveredCases={countries.recovered}
                     critical={countries.critical}
+                    perMillion={countries.casesPerOneMillion}
                     imageSrc={`https://www.countryflags.io/${getCountry(countries.country)}/flat/64.png`}
                     />
                 );
