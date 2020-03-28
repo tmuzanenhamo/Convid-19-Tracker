@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Convid-19-Tracker/static/css/main.95e806b0.chunk.css",
+    "main.js": "/Convid-19-Tracker/static/js/main.a52ba629.chunk.js",
+    "main.js.map": "/Convid-19-Tracker/static/js/main.a52ba629.chunk.js.map",
+    "runtime-main.js": "/Convid-19-Tracker/static/js/runtime-main.b7027fca.js",
+    "runtime-main.js.map": "/Convid-19-Tracker/static/js/runtime-main.b7027fca.js.map",
+    "static/css/2.54ea80bc.chunk.css": "/Convid-19-Tracker/static/css/2.54ea80bc.chunk.css",
+    "static/js/2.7611b5f1.chunk.js": "/Convid-19-Tracker/static/js/2.7611b5f1.chunk.js",
+    "static/js/2.7611b5f1.chunk.js.map": "/Convid-19-Tracker/static/js/2.7611b5f1.chunk.js.map",
+    "index.html": "/Convid-19-Tracker/index.html",
+    "precache-manifest.6097f64d0c9e406d06af510f2634726f.js": "/Convid-19-Tracker/precache-manifest.6097f64d0c9e406d06af510f2634726f.js",
+    "service-worker.js": "/Convid-19-Tracker/service-worker.js",
+    "static/css/2.54ea80bc.chunk.css.map": "/Convid-19-Tracker/static/css/2.54ea80bc.chunk.css.map",
+    "static/css/main.95e806b0.chunk.css.map": "/Convid-19-Tracker/static/css/main.95e806b0.chunk.css.map",
+    "static/js/2.7611b5f1.chunk.js.LICENSE.txt": "/Convid-19-Tracker/static/js/2.7611b5f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7027fca.js",
+    "static/css/2.54ea80bc.chunk.css",
+    "static/js/2.7611b5f1.chunk.js",
+    "static/css/main.95e806b0.chunk.css",
+    "static/js/main.a52ba629.chunk.js"
+  ]
+}
