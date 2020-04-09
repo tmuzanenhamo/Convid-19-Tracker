@@ -31,7 +31,13 @@ const missingCountries = {
     "St. Vincent Grenadines" : "VC",
     "Sint Maarten" : "SX",
     "Syria": "SY",
-    "Turks and Caicos" : "TC"
+    "Turks and Caicos" : "TC",
+    "North America" : "NA",
+    "Europe" : "EU",
+    "Asia" : "AS",
+    "South America" : "SA",
+    "Oceania" : "AZ",
+    "Africa" : "AF"
   
   }
   
