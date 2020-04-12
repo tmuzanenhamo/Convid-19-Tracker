@@ -17,11 +17,13 @@ class App extends React.Component{
     }
   }
 
+  // Fecth data from the api.
+
   componentDidMount(){
     fetch("https://coronavirus-19-api.herokuapp.com/countries")
     .then(response => response.json())
     .then(data => {
-      this.setState({countryData: data});
+      this.setState({countryData: data.slice(8)});
     });
   }
 
