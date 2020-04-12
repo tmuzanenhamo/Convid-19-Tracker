@@ -23,7 +23,7 @@ class App extends React.Component{
     fetch("https://coronavirus-19-api.herokuapp.com/countries")
     .then(response => response.json())
     .then(data => {
-      this.setState({countryData: data.slice(8)});
+      this.setState({countryData: data.slice(8, data.length-7)});
     });
   }
 

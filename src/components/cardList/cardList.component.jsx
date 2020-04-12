@@ -32,12 +32,13 @@ const missingCountries = {
     "Sint Maarten" : "SX",
     "Syria": "SY",
     "Turks and Caicos" : "TC",
-    "North America" : "NA",
-    "Europe" : "EU",
-    "Asia" : "AS",
-    "South America" : "SA",
-    "Oceania" : "AZ",
-    "Africa" : "AF"
+    "Saint Pierre Miquelon": "FR",
+    "British Virgin Islands": "GB",
+    "Caribbean Netherlands": "NL",
+    "Falkland Islands": "GB",
+    "MS Zaandam": "NL",
+    "Laos": "LA",
+    
   
   }
   
